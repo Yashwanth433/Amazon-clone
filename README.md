@@ -1,7 +1,7 @@
 # Amazon Clone - Front-End Project
 
 ## Overview
-Welcom to the Amazon Clone , a front-end project that mirrors the amazon shopping flatform. This project is created with the blend of HTML, CSS, JavaScript and Bootstrap.
+Welcome to the Amazon Clone , a front-end project that mirrors the amazon shopping flatform. This project is created with the blend of HTML, CSS, JavaScript and Bootstrap.
 
 ## Features
 - Includes navigation bar with various functionalities.
@@ -15,6 +15,11 @@ Welcom to the Amazon Clone , a front-end project that mirrors the amazon shoppin
 - JavaScript
 - Bootstrap
 
+## Developer
+Yashwanth M
+
+## Amazon Clone Webpage
+Use this link to visit webpage [amazon Clone](http://127.0.0.1:5500/amazon.html)
   
 ## Screenshots
 
@@ -23,3 +28,4 @@ Welcom to the Amazon Clone , a front-end project that mirrors the amazon shoppin
 ![readme2](https://github.com/Yashwanth433/Amazon-clone/assets/159342896/33063150-bc23-41ec-af77-c9b849180ab2)
 
 ![Screenshot (3)](https://github.com/Yashwanth433/Amazon-clone/assets/159342896/ff2ddd39-c39d-4a4c-a26a-c6f54c37ce3d)
+
